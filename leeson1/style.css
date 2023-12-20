@@ -22,12 +22,14 @@ border-radius: 20px;
 
 }
 h1{
-    text-align: center;
+    
 
 
 }
 h2{
     width: 100%;
-    margin-left: 100px;
-    text-align: center;
+}
+.text{
+    width: 600px;
+
 }
